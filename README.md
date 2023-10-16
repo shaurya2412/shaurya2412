@@ -2,7 +2,7 @@
 <h3 align="center">A aspiring web developer</h3>
 
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React and javascript**
 
