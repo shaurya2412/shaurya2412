@@ -63,4 +63,4 @@
 ![EJS](https://img.shields.io/badge/ejs-BF225A?style=for-the-badge&logo=ejs&logoColor=black)
 ![Redux Saga](https://img.shields.io/badge/Redux--saga-86D46B?style=for-the-badge&logo=ejs&logoColor=black)<h1 align="center">Getting Better Everyday</h1>
 <h3 align="center">Building my world</h3>
-
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
