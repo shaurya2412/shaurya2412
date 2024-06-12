@@ -60,4 +60,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Handlebars](https://img.shields.io/badge/Handlebars-F0772B?style=for-the-badge&logo=handlebars&logoColor=black)
 ![EJS](https://img.shields.io/badge/ejs-BF225A?style=for-the-badge&logo=ejs&logoColor=black)
-![Redux Saga](https://img.shields.io/badge/Redux--saga-86D46B?style=for-the-badge&logo=ejs&logoColor=black)<h1 align="center">Getting Better Everyday</h1>
+
