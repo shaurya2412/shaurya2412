@@ -14,7 +14,7 @@
 
 ### ⚡ Little bit about me: </br>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 💬 Ask me about **React and javascript**
 
