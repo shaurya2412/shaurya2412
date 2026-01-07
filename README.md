@@ -1,20 +1,19 @@
 
 
 
-<h1 align="center">Namaste🙏🏽, I'm Shaurya Saxena</h1>
+<h1 align="center"> I'm Shaurya Saxena</h1>
 
 <h3 align="center">A Passionate Coder from Gurugram,India</h3>
 
 ## 💫 About Me:
 
-<p>Full Stack Developer | Microservices Architect | Built production systems serving 10k+ users | React - Node.js - PostgreSQL - AWS | Open to Full-Stack & Backend roles in Gurugram/NCR.</p>
+<p>Full Stack Developer  | Built production systems serving 10k+ users | React - Node.js - PostgreSQL - AWS | Open to Full-Stack & Backend roles in Gurugram/NCR.</p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 ### ⚡ Little bit about me: </br>
 
-- 🌱 I’m currently learning **NEXT JS**
 
 - 💬 Ask me about **React and javascript**
 
